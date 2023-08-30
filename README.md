@@ -1,13 +1,12 @@
 - 👋 Hi, I’m @jhauge  
   I work as Head of Development in Novicell Copenhagen, 
   where I spend most of my time helping others solving 
-  problems with code and frameworks.
+  problems with tech, code and frameworks.
 - 👀 I’m interested in
   Web Development, Cloud Tech, Managing dev teams 
-- 🌱 I’m currently learning
-  Blazor
+- 🌱 I'm currently learning about web-components
 - 📫 How to reach me
-  See [my profile site](https://about.me/jhauge)
+  See [my profile site](https://jhauge.me)
 
 <!---
 jhauge/jhauge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
